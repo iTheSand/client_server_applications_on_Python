@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "prod1",
+            "quantity": 20,
+            "price": 1000,
+            "buyer": "Yuriy",
+            "date": "12-10-2021"
+        },
+        {
+            "item": "prod2",
+            "quantity": 30,
+            "price": 2000,
+            "buyer": "YuriyIV",
+            "date": "11-05-2021"
+        },
+        {
+            "item": "prod3",
+            "quantity": 2,
+            "price": 790,
+            "buyer": "Pavel",
+            "date": "11-05-2021"
+        }
+    ]
+}
