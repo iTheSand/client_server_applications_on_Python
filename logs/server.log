@@ -1,0 +1,6 @@
+2021-07-07 18:20:48,368 DEBUG server_decorator.py Имя функции - handle_message; Аргументы функции - ({'action': 'presence', 'time': 1625671248.3688917, 'user': {'account_name': 'Guest'}},) & {}; Функция - handle_message вызвана из функции - main
+2021-07-07 18:20:48,368 INFO server.py Клиенту сформировано успешное сообщение
+2021-07-07 18:20:48,369 INFO server.py Получено сервисное сообщение о присутствии
+2021-07-07 18:21:24,608 DEBUG server_decorator.py Имя функции - handle_message; Аргументы функции - ({'action': 'presence', 'time': 1625671284.6079645, 'user': {'account_name': 'Guest'}},) & {}; Функция - handle_message вызвана из функции - main
+2021-07-07 18:21:24,608 INFO server.py Клиенту сформировано успешное сообщение
+2021-07-07 18:21:24,608 INFO server.py Получено сервисное сообщение о присутствии
